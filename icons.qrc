@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/flipqr.png</file>
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/qrtext.png</file>
+        <file>icons/qrfile.png</file>
+        <file>icons/scan.png</file>
+        <file>icons/about.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/play.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/next.png</file>
+        <file>icons/previous.png</file>
+    </qresource>
+</RCC>
